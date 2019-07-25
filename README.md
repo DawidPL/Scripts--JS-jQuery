@@ -1,7 +1,7 @@
 ﻿# Scripts--JS-jQuery
  
  # 1. CSS Loop
- Simple script for the autmatization of child elements style. 
+ Simple script for the automatization of child elements style. 
 
  - propertie_values - array with values which we want to place in multiple classes
  - class - name of CSS class
