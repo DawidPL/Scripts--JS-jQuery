@@ -25,7 +25,7 @@ and output will be:
 
 # 2. addStyleOnContactForm
 
-Script was written for Contact Form. Displays text if you do not check the required checkboxes. 
+Script was written for Wordpress Contact Form. Displays text if you do not check the required checkboxes. 
 It works only for first click. After that new element won't show untill page reload (it can be change by switch '.one' to '.on')
 
 - elementToClick - element of the page which after clicking will add a new text (in this example it's p element after 'submit' input) 
